@@ -4,10 +4,10 @@ function TopicCardBody() {
     return (
         <div id="topic-card-body" style={{marginLeft: '3rem'}}>
             <Typography variant="body1">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae ipsa doloremque, error, praesentium dignissimos vero id natus veritatis magnam reiciendis suscipit, qui officia culpa sed inventore ad. Sint, dolore vitae.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, dolorum? Delectus fuga dolore at eos, est mollitia, asperiores quibusdam ab, possimus quas soluta quos. Ut delectus debitis aliquid velit atque!
             </Typography>
         </div>
-    )    
+    )
 }
 
 export default TopicCardBody;
