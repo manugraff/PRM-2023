@@ -11,7 +11,6 @@ import avatar from '../../assets/img/profile_avatar.jpg';
 import './style.css'
 
 type HeaderProfileProps = {
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     user: any
 }
 

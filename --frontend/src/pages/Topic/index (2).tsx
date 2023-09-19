@@ -1,5 +1,4 @@
-import * as React from 'react';
-import Box from '@mui/material/Box';
+import { Box } from "@mui/material"
 import HeaderProfile from "../../components/HeaderProfile"
 import TopicList from "../../components/TopicList"
 
